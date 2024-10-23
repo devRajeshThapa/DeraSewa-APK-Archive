@@ -26,7 +26,7 @@
     },
     {
         "link":{
-            "downloadAPK": "https://drive.google.com/file/d/1lyRv3zu7gEEYnixXY3MBIqi0iYo0LMnO/view?usp=sharing",
+            "downloadAPK": "https://drive.google.com/file/d/1vOQXdkT5JtSeiRWNT6-MoCfGXSXp2kk-/view?usp=sharing",
             "sourceCode": "https://github.com/devRajeshThapa/Derasewa/releases/tag/V2.0.0",
             "changelogs":[
                 "Entire project is migrated to AWS(EC2)",
@@ -37,6 +37,6 @@
             ]
         },
         "version": "V2.0.0",
-        "status": "Stable (In Development)"
+        "status": "In Development"
     }
 ]

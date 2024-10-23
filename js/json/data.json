@@ -1,0 +1,42 @@
+[
+    {
+        "link":{
+            "downloadAPK": "https://drive.google.com/file/d/1P64d9eTs9X8Modoensq2gVTLCUsfvtSO/view?usp=sharing",
+            "sourceCode": "https://github.com/devRajeshThapa/Derasewa/releases/tag/V1.0.0",
+            "changelogs":[
+                "Initial Version"
+            ]
+        },
+        "version": "V1.0.0",
+        "status": "Deprecated"
+    },
+    {
+        "link":{
+            "downloadAPK": "https://drive.google.com/file/d/1PiBf4ujoOAxKiG85H6e6jKA2K3hlzLrt/view?usp=sharing",
+            "sourceCode": "https://github.com/devRajeshThapa/Derasewa/releases/tag/V1.5.0",
+            "changelogs":[
+                "New loading UI",
+                "Resend OTP",
+                "Contact link redirection",
+                "Fixed some minor bugs"
+            ]
+        },
+        "version": "V1.5.0",
+        "status": "Deprecated"
+    },
+    {
+        "link":{
+            "downloadAPK": "https://drive.google.com/file/d/1lyRv3zu7gEEYnixXY3MBIqi0iYo0LMnO/view?usp=sharing",
+            "sourceCode": "https://github.com/devRajeshThapa/Derasewa/releases/tag/V2.0.0",
+            "changelogs":[
+                "Entire project is migrated to AWS(EC2)",
+                "Integrated email alert system for any kind of activity in the account",
+                "Optimized the workflow by reducing codes",
+                "Fixed some authentication related bugs",
+                "Tried to reduce APK size"
+            ]
+        },
+        "version": "V2.0.0",
+        "status": "Stable (In Development)"
+    }
+]
